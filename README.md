@@ -1,2 +1,4 @@
 # Parcial2_OOP
-- La pregunta 5 es el archivo "pregunta5.py" 
+- Pregunta 5: Archivo "pregunta5.py" 
+- Pregunta 6: Sin Respuesta
+-
